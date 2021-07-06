@@ -1,0 +1,28 @@
+/*contenedor de portafolio*/
+
+.portafolio {
+    text-align: center;
+    display: inline-block;
+}
+
+
+/*portafolio*/
+
+.cja_fater {
+    display: inline-block;
+    background-color: rgb(253, 250, 250);
+    margin: 5px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.cja_fater img {
+    height: 200px;
+    left: 50px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.descuentos {
+    color: blue;
+}
