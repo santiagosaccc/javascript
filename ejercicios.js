@@ -58,3 +58,6 @@ console.log('estamos en la funcion llamada')
 }
 
 newFuction(llamaDa);
+
+//estamos llamando a un ciudadano de primera clase es decir llamamos otra funcion
+
